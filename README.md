@@ -1,3 +1,3 @@
 This is my first project!
 
-This is a test.
+This is an other test.
